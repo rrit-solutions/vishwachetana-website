@@ -1,0 +1,2 @@
+import { Branches, Contact } from "../components/HomeSections";
+export default function ContactPage(){return <main><section className="page-hero"><img src="/assets/hero-campus.png" alt="Vishwachetana campus"/><div className="page-hero-copy"><p className="eyebrow">Contact Us</p><h1>Plan your visit</h1><p>Request admission guidance or reach the right campus.</p></div></section><Contact/><Branches/></main>}
